@@ -1,0 +1,9 @@
+imaplib2
+doctran
+asyncio
+pyyaml
+python-dotenv
+openai
+langchain
+langchain-community
+langchain_google_genai
